@@ -1,2 +1,2 @@
-# clone-tabnewa
+# clone-tabnews
 projeto para treinamento
